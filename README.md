@@ -1,3 +1,10 @@
+<!-- Tampilkan di bagian paling atas README -->
+<div align="center">
+  <a href="https://dianamuseo.pythonanywhere.com/">
+    <img src="https://img.shields.io/badge/🚀_Akses_Versi_Live_Web_kami_di_sini!-brightgreen?style=for-the-badge&logo=render" alt="Live Demo">
+  </a>
+</div>
+
 # 🛒 Mall Experience & Resource Optimization – Customer Segmentation
 
 ![Python](https://img.shields.io/badge/Python-v3.10+-blue?style=for-the-badge&logo=python)
@@ -67,7 +74,7 @@ Riset pemodelan machine learning dalam proyek ini disusun ke dalam struktur sel 
 
 ---
 
-### 🚀 Panduan Instalasi & Setup Lingkungan
+### 🚀 Panduan Instalasi & Setup Lingkungan (Jika ingin local run)
 
 Panduan ini disusun untuk membantu pengguna baru menjalankan aplikasi dari nol secara lokal.
 
